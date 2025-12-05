@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ghuschyan2rkis.Properties
+namespace gbl2.Properties
 {
 
 
