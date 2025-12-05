@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace gbl1
+namespace gbl2
 {
     static class Program
     {
