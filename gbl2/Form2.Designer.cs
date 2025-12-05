@@ -1,4 +1,4 @@
-﻿namespace ghuschyan2rkis
+﻿namespace gbl2
 {
     partial class Form2
     {
