@@ -1,4 +1,4 @@
-namespace ghuschyan2rkis.DB
+namespace gbl2.DB
 {
     using System;
     using System.Collections.Generic;
